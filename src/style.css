@@ -66,3 +66,18 @@ li::first-letter {
 #celsius-link {
   text-decoration: none;
 }
+.weather-forecast {
+  margin-top: 20px;
+  text-align: center;
+  color: #000;
+}
+.weather-forecast-date {
+  font-size: 16px;
+  opacity: o.6;
+}
+.weather-forcast-temperature {
+  font-size: 13px;
+}
+.weather-forcast-temperature-min {
+  opacity: 0.5;
+}
